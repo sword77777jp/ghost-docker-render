@@ -7,4 +7,4 @@ services:
     startCommand: yarn start
     envVars:
       - key: NODE_VERSION
-        value: 18.18.2
+        value: 18.12.1
