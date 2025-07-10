@@ -4,7 +4,7 @@
   "description": "The professional publishing platform",
   "private": true,
   "scripts": {
-    "start": "node core/index.js",
+    "start": "node current/index.js",
     "build": "yarn workspace ghost run build"
   },
   "repository": "https://github.com/sword77777jp/ghost-v5-render",
